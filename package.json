@@ -1,0 +1,20 @@
+{
+  "name": "@filejet/local-proxy",
+  "description": "CLI tool which helps to test External image functionality on localhost",
+  "version": "1.0.0",
+  "bin": {
+    "fjlp": "./cli.js"
+  },
+  "keywords": [
+    "filejet",
+    "local proxy",
+    "development",
+    "external files"
+  ],
+  "author": "Ivan Barlog <ivan.barlog@filejet.io>",
+  "dependencies": {
+    "localtunnel": "^1.9.2",
+    "mime-types": "^2.1.24",
+    "minimist": "^1.2.0"
+  }
+}
