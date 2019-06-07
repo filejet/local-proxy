@@ -7,13 +7,13 @@ FileJet Local Proxy (fjlp) is command line tool which helps developers to easily
 Globally:
 
 ```bash
-yarn global add @filejet/local-proxy
+yarn global add filejet-local-proxy
 ```
 
 or within the project
 
 ```bash
-yarn add @filejet/local-proxy
+yarn add filejet-local-proxy
 ```
 
 # Usage
